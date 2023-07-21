@@ -1,5 +1,6 @@
 ![Yogesh Kanuppa](./assets/github-header-image.png)
 ### Hi there 👋
+I am a multidisciplinary software engineer, business developer and lifelong learner with experience of 10+ years of industry experience in Cloud Architecture, Platform Engineering, Data Strategy & Engineering and Web / Application Development. Over the years I have designed and developed brands, businesses and built high-performance cost-effective infrastructures and data pipelines.
 
 <!--
 **yogeshbabu/yogeshbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
