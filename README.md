@@ -1,3 +1,4 @@
+![Yogesh Kanuppa](./assets/github-header-image.png)
 ### Hi there 👋
 
 <!--
