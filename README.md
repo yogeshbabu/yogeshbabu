@@ -3,7 +3,7 @@
 </div>
 
 ### Hi there 👋
-I am a multidisciplinary software engineer, business developer and lifelong learner with 10+ years of industry experience in Cloud Architecture, Platform Engineering, Data Strategy & Engineering and Web / Application Development. Over the years I have designed and developed brands, businesses and built high-performance cost-effective infrastructures and data pipelines.
+I am a multidisciplinary software engineer, business developer and lifelong learner with 14+ years of industry experience in Cloud Architecture, Platform Engineering, Data Strategy & Engineering and Web / Application Development. Over the years I have designed and developed brands, businesses and built high-performance cost-effective infrastructures and data pipelines.
 
 ###
 
